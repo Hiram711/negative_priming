@@ -1,0 +1,4 @@
+order,first,second,resp_time,resp_action,resp_result
+1,<<,<<,1.975211599987233,left,正确
+2,>>,<<,1.2858841000124812,left,正确
+3,>>,<<,1.5502683999948204,left,正确
